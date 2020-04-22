@@ -9,9 +9,6 @@ class Solution:
                 count += 1
         return count
                   
-
-    # здесь твой код
-
 # здесь напишем все тесты
 def run_tests():
     
